@@ -61,7 +61,7 @@ MIT License
 
 Developed by Johan Corona González, Mauro Axel Félix de los Ríos, and Emiliano García Gutiérrez.
 
-For collaboration inquiries or implementation support: [tu-email@ejemplo.com]
+For collaboration inquiries or implementation support: [jcoronagonzalez.06.03.2008@gmail.com]
 
 ## Acknowledgments
 
